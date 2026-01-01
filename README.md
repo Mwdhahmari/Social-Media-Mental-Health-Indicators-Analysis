@@ -72,8 +72,7 @@ Run cells step-by-step to reproduce the analysis
 
 🤝 Contact | للتواصل
 Maudah Abdullah Alahmari
-📫 (Email / LinkedIn يمكن إضافتهم لاحقًا حسب رغبتك)
+📫 (Email:AlahmariMwdh@gmail.com / LinkedIn: https://www.linkedin.com/in/maudah-alahmari-7b1475342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-⭐ Support
-If you found this project useful, please consider starring ⭐ the repository.
-إذا أعجبك المشروع، يرجى دعم المستودع بإضافة نجمة ⭐
+
+
