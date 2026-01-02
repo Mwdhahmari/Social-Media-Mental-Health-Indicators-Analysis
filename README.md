@@ -38,18 +38,36 @@ Key Features | أبرز نقاط المشروع
 
 
 • Data cleaning & handling missing values
+
+
 • Feature engineering (age & screen time grouping)
+
+
 • Descriptive and visual analysis
+
+
 • Time-series insights
+
+
 • Behavioral patterns and correlation study
 
 
 
 • تنظيف البيانات والتعامل مع القيم الناقصة
+
+
 • إنشاء متغيرات جديدة لتحسين التحليل
+
+
 • تحليلات ورسوم بيانية توضيحية
+
+
 • تحليل زمني لتتبع التغيرات اليومية
+
+
 • دراسة الترابط بين السلوك الرقمي والرفاهية
+
+
 
 Tools & Technologies | الأدوات المستخدمة
 
@@ -58,22 +76,37 @@ Tools & Technologies | الأدوات المستخدمة
 Python — Pandas — NumPy — Matplotlib — Seaborn — EDA — Time Series — Correlation Analysis
 
 
+
+
 Key Findings | أهم النتائج
 
 
 
 • Higher social media usage is linked to reduced sleep duration
+
+
 • TikTok users show more negative interactions
+
+
 • Gender has no major influence on screen time
+
+
 • Age & platform type shape behavioral outcomes
 
 
 
 
 
+
 • ارتفاع استخدام السوشيال ميديا يرتبط بانخفاض ساعات النوم
+
+
 • مستخدمو TikTok معرضون لتفاعلات سلبية أكثر
+
+
 • لا يظهر اختلاف ملحوظ حسب الجنس
+
+
 • العمر ونوع المنصة يؤثران على نتائج الاستخدام
 
 
@@ -160,19 +193,29 @@ Future Improvements | أفكار للتطوير
 
 
 • Build a prediction model to estimate sleep hours
+
+
 • Expand the dataset for stronger conclusions
+
+
 • Create a dashboard on Power BI or Tableau
 
 
 
+
 • تطوير نموذج تنبؤ لساعات النوم
+
+
 • توسيع البيانات لتعزيز دقة النتائج
+
+
 • إنشاء لوحة تفاعلية باستخدام Power BI أو Tableau
 
 
 🤝 Contact | للتواصل
 Maudah Abdullah Alahmari
 📫 (Email:AlahmariMwdh@gmail.com / LinkedIn: https://www.linkedin.com/in/maudah-alahmari-7b1475342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
 
 
 
