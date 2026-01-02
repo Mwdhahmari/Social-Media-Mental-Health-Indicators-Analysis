@@ -1,13 +1,15 @@
-📊 Social Media & Mental Health Indicators Analysis
+Social Media & Mental Health Indicators Analysis
 By: Maudah Abdullah Alahmari
 
-🌐 Overview | نظرة عامة
+Overview | نظرة عامة
 
 
 This project explores how social media usage impacts sleep duration, interaction quality, and overall well-being. By analyzing digital behavior patterns, the study highlights how certain platforms and usage habits may correlate with mental health indicators.
+
+
 يستكشف هذا المشروع تأثير استخدام وسائل التواصل الاجتماعي على ساعات النوم وجودة التفاعلات والصحة العامة. من خلال تحليل الأنماط الرقمية، يسلط المشروع الضوء على العلاقة بين العادات الرقمية وبعض المؤشرات المرتبطة بالصحة النفسية.
 
-📁 Dataset | بيانات المشروع
+Dataset | بيانات المشروع
 
 
 The dataset contains daily records of users' digital behavior to analyze wellness indicators. يحتوي هذا الملف على بيانات يومية لسلوك المستخدمين على وسائل التواصل ومؤشرات الرفاهية.
@@ -28,7 +30,7 @@ negative_interactions_count
 positive_interactions_count
 sleep_hours
 
-🧠 Key Features | أبرز نقاط المشروع
+Key Features | أبرز نقاط المشروع
 
 
 
@@ -46,14 +48,14 @@ sleep_hours
 • تحليل زمني لتتبع التغيرات اليومية
 • دراسة الترابط بين السلوك الرقمي والرفاهية
 
-🔧 Tools & Technologies | الأدوات المستخدمة
+Tools & Technologies | الأدوات المستخدمة
 
 
 
 Python — Pandas — NumPy — Matplotlib — Seaborn — EDA — Time Series — Correlation Analysis
-بايثون — بانداز — نامباي — ماتبلوت ليب — سيبورن — تحليل وصفي — تحليل زمني — تحليل ارتباط
 
-📌 Key Findings | أهم النتائج
+
+Key Findings | أهم النتائج
 
 
 
@@ -72,7 +74,8 @@ Python — Pandas — NumPy — Matplotlib — Seaborn — EDA — Time Series �
 • العمر ونوع المنصة يؤثران على نتائج الاستخدام
 
 
-## 📊 Visualizations | الرسوم البيانية
+
+## Visualizations | الرسوم البيانية
 
  1️⃣ Average Screen Time by Gender
 ![Average Screen Time by Gender](assets/avg_screen_time_by_gender.png)
@@ -125,7 +128,7 @@ Python — Pandas — NumPy — Matplotlib — Seaborn — EDA — Time Series �
 
 
 
-🏁 Conclusion | الخلاصة
+Conclusion | الخلاصة
 
 
 
@@ -136,7 +139,7 @@ This analysis shows a direct connection between digital behavior and wellness in
 يوضح هذا التحليل وجود علاقة بين السلوك الرقمي ومؤشرات الصحة النفسية. فالزيادة في الاستخدام، خصوصًا في المنصات ذات التفاعل العالي مثل TikTok، ترتبط بانخفاض ساعات النوم وزيادة التعرض للتفاعلات السلبية. ويتضح أن العمر ونوع
 المنصة لهما تأثير أكبر من الجنس على النتائج السلوكية.
 
-▶️ How to Run the Project | كيفية تشغيل المشروع
+How to Run the Project | كيفية تشغيل المشروع
 
 
 Download or clone the repository
@@ -150,7 +153,7 @@ Run cells step-by-step to reproduce the analysis
 
 
 
-🌱 Future Improvements | أفكار للتطوير
+Future Improvements | أفكار للتطوير
 
 
 • Build a prediction model to estimate sleep hours
@@ -167,6 +170,7 @@ Run cells step-by-step to reproduce the analysis
 🤝 Contact | للتواصل
 Maudah Abdullah Alahmari
 📫 (Email:AlahmariMwdh@gmail.com / LinkedIn: https://www.linkedin.com/in/maudah-alahmari-7b1475342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
 
 
 
